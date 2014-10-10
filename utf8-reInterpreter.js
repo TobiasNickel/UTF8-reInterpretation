@@ -1,0 +1,1 @@
+export=function(s){return JSON.parse(JSON.stringify(s));}
